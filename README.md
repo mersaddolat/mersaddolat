@@ -2,7 +2,7 @@
 
 # 👋 Hey there  
 
-I’m **Mersad Dolat** — Just a Software Engineer.
+I’m **Mersad Dolat** — a Software Engineer.
 
 ---
 
