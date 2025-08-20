@@ -32,6 +32,4 @@ I’m **Mersad Dolat**, a Software Engineer.
 - 💼 LinkedIn: **[linkedin.com/in/mersaddolat](https://www.linkedin.com/in/mersaddolat/)**  
 
 ---
-
-### 💡 Quote of the day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
