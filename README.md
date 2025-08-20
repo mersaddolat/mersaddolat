@@ -16,12 +16,13 @@ I’m **Mersad Dolat**, a Software Engineer.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mersaddolat&show_icons=true&theme=radical" alt="Mersad's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mersaddolat&theme=radical" alt="Mersad's GitHub streak" />
-</p>
+### 🔖 Languages I Use
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mersaddolat&layout=compact&theme=radical)
+
+---
+
+### 📈 Activity
+![Mersad's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mersaddolat&theme=react-dark)
 
 ---
 
@@ -32,4 +33,5 @@ I’m **Mersad Dolat**, a Software Engineer.
 
 ---
 
-✨ _"Talk is cheap. Show me the code." - Linus Torvalds_  
+### 💡 Quote of the day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
